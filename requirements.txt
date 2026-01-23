@@ -1,0 +1,5 @@
+streamlit
+pyaudio
+dashscope
+openai
+psutil
