@@ -1,5 +1,6 @@
 streamlit
-pyaudio
+streamlit-audiorecorder
 dashscope
 openai
 psutil
+pydub
