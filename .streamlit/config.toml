@@ -1,0 +1,10 @@
+[server]
+# 启用 HTTPS
+sslCertFile = ".streamlit/cert.pem"
+sslKeyFile = ".streamlit/key.pem"
+
+# 允许所有来源访问
+enableCORS = true
+port = 8501
+address = "0.0.0.0"
+enableXsrfProtection = false

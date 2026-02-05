@@ -1,0 +1,6 @@
+streamlit
+streamlit-audiorecorder
+dashscope
+openai
+psutil
+pydub

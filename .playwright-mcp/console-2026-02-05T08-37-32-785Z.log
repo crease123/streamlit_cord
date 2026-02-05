@@ -1,0 +1,9 @@
+[    1066ms] [WARNING] Unrecognized feature: 'ambient-light-sensor'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1069ms] [WARNING] Unrecognized feature: 'battery'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1070ms] [WARNING] Unrecognized feature: 'document-domain'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1071ms] [WARNING] Unrecognized feature: 'layout-animations'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1071ms] [WARNING] Unrecognized feature: 'legacy-image-formats'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1072ms] [WARNING] Unrecognized feature: 'oversized-images'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1072ms] [WARNING] Unrecognized feature: 'vr'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1073ms] [WARNING] Unrecognized feature: 'wake-lock'. @ http://localhost:8503/static/js/index.DFT9nVK6.js:1
+[    1094ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:8503/component/audiorecorder.audiorecorder/index.html?streamlitUrl=http%3A%2F%2Flocalhost%3A8503%2F:0
